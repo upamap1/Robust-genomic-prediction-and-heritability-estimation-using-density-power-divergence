@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the following paper."
+title: "Robust Genomic Prediction and Heritability Estimation using Density Power Divergence"
+type: software
+authors:
+  - family-names: "Chowdhury"
+    given-names: "Upama Paul"
+  - family-names: "Bhattacharjee"
+    given-names: "Ronit"
+  - family-names: "Das"
+    given-names: "Susmita"
+  - family-names: "Ghosh"
+    given-names: "Abhik"
+repository-code: "https://github.com/USERNAME/robust-genomic-prediction-dpd"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Robust Genomic Prediction and Heritability Estimation using Density Power Divergence"
+  journal: "Crop Science"
+  year: 2025
+  doi: "10.1002/csc2.21430"
+  authors:
+    - family-names: "Chowdhury"
+      given-names: "Upama Paul"
+    - family-names: "Bhattacharjee"
+      given-names: "Ronit"
+    - family-names: "Das"
+      given-names: "Susmita"
+    - family-names: "Ghosh"
+      given-names: "Abhik"
