@@ -46,8 +46,8 @@ environment/ # Session and package information
 
 ## ▶️ How to Run the Code
 
-### 1. Simulate data (with and without contamination)
 ```r
+### Simulate data (with and without contamination)
 source("simulation/simulation_with_contamination.R")
 ### Run non-robust methods
 source("methods/non_robust/simulated_one_two_stage.R")
