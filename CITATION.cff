@@ -11,7 +11,7 @@ authors:
     given-names: "Susmita"
   - family-names: "Ghosh"
     given-names: "Abhik"
-repository-code: "https://github.com/USERNAME/robust-genomic-prediction-dpd"
+repository-code: "https://github.com/upamap1/Robust-genomic-prediction-and-heritability-estimation-using-density-power-divergence"
 license: MIT
 preferred-citation:
   type: article
